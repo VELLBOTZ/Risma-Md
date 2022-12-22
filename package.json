@@ -86,6 +86,5 @@
         "url-regex-safe": "^2.1.0",
         "wa-sticker-formatter": "^4.3.2",
         "yargs": "^17.2.1",
-        "yt-search": "^2.10.2"
     }
 }
